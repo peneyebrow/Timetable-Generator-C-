@@ -1,0 +1,55 @@
+5
+Group1 30
+
+Group2 30
+
+Group3 30
+
+Group4 30
+
+Group5 30
+
+
+
+12
+Orange_Hall lecture 450
+6.407 lab 20
+6.327 lab 24
+3.143 lab 24
+3.132 lab 24
+7.332 lab 25
+6.307 lab 28
+3.227 lab 28
+3.217 lab 28
+6.408 lab 30
+6.112 lab 33
+3.316 lab 40
+
+5
+EY1_T1
+5 Group1 Group2 Group3 Group4 Group5
+
+
+EY1_T2
+3 Group1 Group2 Group3
+
+EY1_T3
+3 Group1 Group2 Group3 
+
+EY1_T4
+5 Group1 Group2 Group3 Group4 Group5
+
+
+EY1_T5
+5 Group1 Group2 Group3 Group4 Group5
+
+
+5
+Anatoli_Vakhguelt 1 
+EY1_T2
+Vasileios_Zarikas 1 EY1_T4
+Aresh_Dadlani 1 EY1_T1
+Vipin_Kizheppatt 1 
+EY1_T5
+Asma_Perveen 1 EY1_T3
+

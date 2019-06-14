@@ -1,0 +1,50 @@
+5
+Group1 30
+
+Group2 30
+
+Group3 30
+
+Group4 30
+
+Group5 30
+
+
+
+5
+
+Orange_Hall lecture 450
+
+6.522 lab 30
+
+3.323 lab 50
+
+3.321 lab 30
+
+3.320 lab 30
+
+
+
+5
+BENG111_MECHANICS
+5 Group1 Group2 Group3 Group4 Group5
+
+BENG112_MATERIALS
+5 Group1 Group2 Group3 Group4 Group5
+
+BENG113_MATHEMATICS
+5 Group1 Group2 Group3 Group4 Group5
+
+BENG114_PROGRAMMING 
+5 Group1 Group2 Group3 Group4 Group5
+
+BENG115_HEALTH_AND_SAFETY
+5 Group1 Group2 Group3 Group4 Group5
+
+
+5
+Anatoly_Vakhguelt 1 BENG111_MECHANICS
+Asma_Perveen 1 BENG112_MATERIALS
+Vasileous_Zarikas 1 BENG113_MATHEMATICS
+Vipin_Kizheppatt_and_Aresh_Dadlani 1 BENG114_PROGRAMMING 
+Ming_Yang 1 BENG115_HEALTH_AND_SAFETY

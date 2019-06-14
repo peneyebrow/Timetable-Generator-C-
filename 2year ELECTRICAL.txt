@@ -1,0 +1,43 @@
+5
+
+Group1 30
+
+Group2 30
+
+Group3 30
+
+Group4 30
+
+Group5 30
+
+
+
+5
+
+Orange_Hall lecture 150
+
+6.522 lab 30
+
+3.323 lab 50
+
+3.321 lab 30
+
+3.320 lab 30
+
+
+
+3
+BENG111_MECH
+5 Group1 Group2 Group3 Group4 Group5
+
+BENG112_MAT
+5 Group1 Group2 Group3 Group4 Group5
+
+BENG113_MATH
+5 Group1 Group2 Group3 Group4 Group5
+
+
+3
+RUSLAN 1 BENG111_MECH
+Asma 1 BENG112_MAT
+Vasileous 1 BENG113_MATH
